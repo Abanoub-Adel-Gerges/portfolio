@@ -27,5 +27,5 @@ This repository contains my personal portfolio website, showcasing my skills, ex
 - JavaScript (Vanilla)
 - Font Awesome for icons
 
-   ```bash
-   git clone https://github.com/Abanoub-Adel-Gerges/portfolio.git
+## 🌐 Live Portfolio
+https://abanoub-adel-gerges.github.io/portfolio/
